@@ -20,7 +20,8 @@
 
 
  ![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.002.png)
- ![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.003.jpeg)*CIAJOLO Mateo, HANICOTTE Eulalie, VAZART Paul, LECLAIRE Thibaut, SENEJOUX Noah, RIMBERT Bastien*
+ ![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.003.jpeg)
+ *CIAJOLO Mateo, HANICOTTE Eulalie, VAZART Paul, LECLAIRE Thibaut, SENEJOUX Noah, RIMBERT Bastien*
 
 
 
