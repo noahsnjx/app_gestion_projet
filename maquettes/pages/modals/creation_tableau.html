@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Création tableau</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="../../style/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Questrial">
+
+</head>
+<body class="h-100 d-flex flex-column">
+    <div class="d-flex justify-content-center align-content-center flex-grow-1">
+        <div class="form-box bg-white">
+            <form>
+                <div class="p-2">
+                    <h1 class="text-center">Création d'un tableau</h1>
+                    <div class="m-2">
+                        <label class="creation" for="name">Nom:</label>
+                        <input class="form-control" type="text" id="name" name="name" placeholder="Nom du tableau">
+                    </div>
+                    <div class="d-flex flex-row align-items-center">
+                        <p class="m-2">Couleur de fond: </p>
+                        <div class="mb-2 d-flex flex-row align-items-center m-2">
+                            <input type="color" id="color" name="color" value="#ffffff">
+                        </div>
+                    </div>
+                </div>
+                <div class="m-2 text-center">
+                    <button class="button bg-gray fs-4 py-2 px-4" type="button">Création du tableau</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
