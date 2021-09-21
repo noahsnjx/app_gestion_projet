@@ -531,4 +531,4 @@ Ainsi, à chaque tableau on peut affilier plusieurs catégories et une catégori
 
 
 
-### ***Modification d’une tâche : ![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.049.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.045.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.046.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.050.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.051.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.052.png)***
+### ***Modification d’une tâche : ![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.049.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.045.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.046.png)![](images/Aspose.Words.6ffb344b-c794-4e46-a19f-3b692d892ef3.050.png)***
